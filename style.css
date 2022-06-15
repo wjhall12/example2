@@ -1,0 +1,23 @@
+body {
+  background-color:rgba(100, 62, 15, 0.78)
+}
+h1 {
+  text-align: center;
+  color: darkblue
+}
+img {
+ float: right
+}
+h6 {
+  text-align: left;
+}
+hr{
+  font-size: 5px;
+}
+p {
+  font-family:monospace;
+  color: burlywood
+}
+h2 {
+  color: #5225b7
+}
